@@ -1,0 +1,11 @@
+{
+  "name": "@noopn/log",
+  "version": "0.0.1",
+  "main": "index.js",
+  "keywords": [
+    "log",
+    "logger",
+    "console"
+  ],
+  "license": "ISC"
+}
